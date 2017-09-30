@@ -1,1 +1,1 @@
-# Responsice-Portfolio
+# Responsive-Portfolio
